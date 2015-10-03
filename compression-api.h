@@ -34,6 +34,7 @@
 #include <stdint.h>
 #include <assert.h>
 #include <errno.h>
+#include <limits.h>
 
 // Check that it is 8 bits to the byte
 #if CHAR_BIT != 8
